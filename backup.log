@@ -1,0 +1,61 @@
+Backup started at Mon May 11 18:03:00 UTC 2026
+sending incremental file list
+rsync: [sender] change_dir "/source" failed: No such file or directory (2)
+rsync: [Receiver] change_dir#3 "/backup" failed: No such file or directory (2)
+rsync error: errors selecting input/output files, dirs (code 3) at main.c(829) [Receiver=3.2.7]
+Backup completed at Mon May 11 18:03:00 UTC 2026
+Backup started at Mon May 11 18:08:20 UTC 2026
+sending incremental file list
+rsync: [sender] change_dir "/source" failed: No such file or directory (2)
+rsync: [Receiver] change_dir#3 "/backup" failed: No such file or directory (2)
+rsync error: errors selecting input/output files, dirs (code 3) at main.c(829) [Receiver=3.2.7]
+Backup completed at Mon May 11 18:08:20 UTC 2026
+Backup started at Mon May 11 18:10:23 UTC 2026
+sending incremental file list
+created directory /mnt/c/Users/User/Backup
+Documents/
+Documents/AI Study Planner report Balasoorya  D A.pdf
+Documents/AKS[1].docx
+Documents/Amazon Bedrock.pptx
+Documents/BALASOORYA CN RECORD.pdf
+Documents/CertificateOfCompletion_Agile Development Practices (2) sreedan.pdf
+Documents/CertificateOfCompletion_Agile Development Practices srredan.pdf
+Documents/DBMS RECORD.docx
+Documents/DS[Record format 2025][1] (AutoRecovered).docx
+Documents/DS[Record format 2025][1].docx
+Documents/Group 96 __ECOsmart.docx
+Documents/Hostel Management System report(1).docx
+Documents/Hostel Management System report(1).pdf
+Documents/JAIN COVER PG CN.pdf
+Documents/Master_lab_qp[1].docx
+Documents/My Music -> /mnt/c/Users/User/Music
+Documents/My Pictures -> /mnt/c/Users/User/Pictures
+Documents/My Videos -> /mnt/c/Users/User/Videos
+Documents/PYTHON.docx
+Documents/Project Report Python Sreedan S Kumar.docx
+Documents/Project Report Python Sreedan S Kumar.pdf
+Documents/Python record.docx
+Documents/SQL.docx
+Documents/Sreedan S Kumar resume s.docx
+Documents/TD-PCL_Report[1].docx
+Documents/WEEK 6 grp 96.docx
+Documents/Week 5 - Financial Projections  group 96.docx
+Documents/Week 7 grp 96.docx
+Documents/Week6__-_Channels_Analysis_Worksheet[1] grp 96.docx
+Documents/Week7 Customer Relationships Worksheet[1].docx
+Documents/Week8_Market_Feasibility_Summary_Worksheet[1]    grp 96.docx
+Documents/WhatsApp Image 2025-04-08 at 13.16.55_b7b6f1f9.jpg
+Documents/cool-girl-laptop-zk1aj5c3skgq8wr5.jpg
+Documents/desktop.ini
+Documents/evs assingment Sreedan.docx
+Documents/evs assingment Srredan.docx
+Documents/evs.docx
+Documents/evs[1][1].docx
+Documents/pp sample protfolio.jpeg
+Documents/theme3 zip.zip
+Documents/zaprent video.mp4
+Documents/Adobe Illustrator 2025 (v29.8.1.2) Multilingual/
+Documents/Adobe Illustrator 2025 (v29.8.1.2) Multilingual/Adobe.Illustrator.2025.u12.Multilingual.iso
+rsync error: received SIGINT, SIGTERM, or SIGHUP (code 20) at io.c(519) [generator=3.2.7]
+rsync error: received SIGINT, SIGTERM, or SIGHUP (code 20) at rsync.c(716) [sender=3.2.7]
+Backup completed at Mon May 11 18:11:32 UTC 2026
